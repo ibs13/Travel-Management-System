@@ -1,0 +1,119 @@
+html{
+	background-color: #373D46;
+}
+
+.something{
+	background-color: #373D46;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+  	font-size:40px;
+  	margin:20px;
+	color:#e74c3c;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size:30px;
+	color:#1abc9c;
+
+}
+p{
+	text-align: justify;
+	margin-top: 10px;
+	font-family: 'Raleway', sans-serif;
+  	font-size: 15px;
+	color:#1abc9c;
+
+}
+.col-md-7
+{
+	height: auto;
+	width: auto;
+	color: navy;
+	font-family: 'Raleway', sans-serif;
+  	font-size: 22px;
+  	margin-bottom: 40px;
+}
+.col-md-7 h2
+{
+	margin-top:60px;
+	color: navy;
+	font-family: 'Raleway', sans-serif;
+  	font-size: 20px;
+}
+
+.col-md-7 a
+{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+  	font-size:25px;
+  	display: block;
+}
+
+tr{
+	color: #1abc9c;
+}
+
+#sim a{
+	background: #1abc9c;
+	border: 1px solid #1abc9c;
+}
+
+#sim a:hover{
+	background: #e74c3c;
+	border: 1px solid #e74c3c;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.col-md-5 {
+	float: right;
+	padding: 10px;
+	margin-right: 10px;
+	margin-top: 15px;
+	height: 320px;
+	width: 470px;
+	background-color: #E9EAED;
+	text-align: justify;
+	font:bold 20px Arial, Helvetica;
+} 
+.col-md-5 a{
+	color:  #000066;
+	margin: 1px;
+}
+.col-md-5 p
+{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+  	font-size:35px;
+  	color: navy;
+}
+
+
+.col-md-12 textarea{
+
+	 height: 300px;
+	 width: 700px; 
+	background-color: #E9EAED;
+	margin-left: 250px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+}
+.col-md-12 input{
+	text-align: center;
+	margin-left: 550px;
+	padding: 10px;
+}
+
+.footer label{
+	text-align: bottom;
+	background-color: green;
+}

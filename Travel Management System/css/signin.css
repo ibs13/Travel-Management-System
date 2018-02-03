@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background:url(../img/slider2.jpg);
+	background-size: 1370px 640px ;
+	background-repeat: no-repeat;
+}
+
+.center{
+	background:transparent;
+	
+}
+
+button{
+	background:#00959F;
+	padding:10px 90px; 
+	border:1px solid #00959F ; 
+	color:#FFFFFF;
+	border-radius: 5px;
+}
+
+button:hover{
+	background:#B7112A;
+	border:1px solid #B7112A; 
+	cursor: pointer;
+}
+
+#finish a:hover{
+	cursor: pointer;
+}
+label{
+	color: #B7112A;
+}

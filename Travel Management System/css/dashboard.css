@@ -1,0 +1,36 @@
+html{
+	background-color: #373D46;
+}
+td a{
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	
+}
+
+td {		
+	text-decoration: none;
+	font-weight: bold;
+	background:#00959F;
+}
+
+td a:hover{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+td:hover{
+	background:#B7112A;
+	cursor: pointer;
+}
+
+td:hover a{
+	border: 1px solid #B7112A;
+}
+
+.dashing{
+	background:url(../img/saintmartin3.jpg);
+	background-size: 1370px 470px;
+    background-repeat: no-repeat;
+}

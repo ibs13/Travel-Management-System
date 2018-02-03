@@ -1,0 +1,49 @@
+body{
+	background:url(../img/humhum2.jpg) no-repeat right;
+	width:100%;
+	background-size:cover;
+	min-height:540px;
+	display:block;
+	position:relative;
+}
+
+.sab {
+	margin-top: 100px;
+	height: 400px;
+	width: 500px;
+	background: #373D46;
+	display: block;
+	border-radius: 10px;
+}
+
+tr{
+	color:#e74c3c;
+}
+
+
+#response2 button{
+	background:#00959F;
+	padding:10px 15px; 
+	border:1px solid #00959F ; 
+	color:#FFFFFF;
+	border-radius: 5px;
+}
+
+#response2 button:hover{
+	background:#B7112A;
+	border:1px solid #B7112A; 
+	cursor: pointer;
+}
+
+.container input[type="submit"]{
+			background:#00959F;
+			padding:5px 15px; 
+			border:1px solid #00959F ; 
+			color:#FFFFFF;
+			border-radius: 5px;
+		}
+.container input[type="submit"]:hover{
+	background:#B7112A;
+	border:1px solid #B7112A; 
+	cursor: pointer;
+}
